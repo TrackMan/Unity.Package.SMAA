@@ -1,7 +1,7 @@
 {
   "name": "com.chman.smaa",
   "description": "This is a highly customizable implementation of Subpixel Morphological Antialiasing for Unity",
-  "displayName": "SMAA for Unity",
+  "displayName": "SMAA",
   "version": "1.0.0",
   "unity": "2019.3"
 }
