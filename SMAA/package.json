@@ -3,5 +3,5 @@
   "description": "This is a highly customizable implementation of Subpixel Morphological Antialiasing for Unity",
   "displayName": "SMAA (Thomas Hourdel)",
   "version": "1.0.1",
-  "unity": "2020.1"
+  "unity": "2021.3"
 }
